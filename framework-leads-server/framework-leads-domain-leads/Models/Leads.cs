@@ -27,9 +27,10 @@ namespace FrameworkLeads.Models
         [Column("CONTACT_PHONE")] 
         public string ContactPhone { get; set; }
         
-        [Column("CONTACT_EMAIL")] 
+        [Column("CONTACT_EMAIL")]
         public string ContactEmail { get; set; }
-        
+
+        [Column("DATE_CREATED")]        
         public DateTime DateCreated { get; set; }
         public string Suburb { get; set; }
         public string Category { get; set; }

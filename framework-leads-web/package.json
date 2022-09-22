@@ -1,0 +1,32 @@
+{
+  "name": "framework-leads",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.36",
+    "@nuxtjs/axios": "^5.13.6",
+    "core-js": "^3.19.3",
+    "nuxt": "^2.15.8",
+    "nuxt-buefy": "^0.4.13",
+    "vue": "^2.6.14",
+    "vue-server-renderer": "^2.6.14",
+    "vue-template-compiler": "^2.6.14",
+    "vue-the-mask": "^0.11.1",
+    "webpack": "^4.46.0"
+  },
+  "devDependencies": {
+    "@fortawesome/free-solid-svg-icons": "^6.2.0",
+    "@nuxtjs/fontawesome": "^1.1.2",
+    "@nuxtjs/moment": "^1.6.1",
+    "@nuxtjs/style-resources": "^1.2.1",
+    "fibers": "^5.0.3",
+    "node-sass": "^7.0.3",
+    "sass-loader": "^10.3.1"
+  }
+}
