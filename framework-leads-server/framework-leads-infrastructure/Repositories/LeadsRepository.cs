@@ -2,6 +2,7 @@
 using System.Configuration;
 using System.Data.SqlClient;
 using Microsoft.Extensions.Configuration;
+using FrameworkLeads.Models;
 
 namespace FrameworkLeads.Data
 {

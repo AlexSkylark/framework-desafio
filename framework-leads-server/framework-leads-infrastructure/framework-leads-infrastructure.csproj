@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\framework-leads-leads\framework-leads-domain-leads.csproj" />
+    <ProjectReference Include="..\framework-leads-domain-leads\framework-leads-domain-leads.csproj" />
   </ItemGroup>
 
 </Project>
